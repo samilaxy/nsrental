@@ -1,7 +1,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
       <div class="footer-top">
-          <div class="container">
+          <div class="container pt-5">
               <div class="row">
 
                   <div class="col-lg-3 col-md-8" >
@@ -37,17 +37,17 @@
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="../stylesheet/vendor/jquery/jquery.min.js"></script>
-  <script src="../stylesheet/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="../stylesheet/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="../stylesheet/vendor/php-email-form/validate.js"></script>
-  <script src="../stylesheet/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="../stylesheet/vendor/venobox/venobox.min.js"></script>
-  <script src="../stylesheet/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="../stylesheet/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="../../stylesheet/vendor/jquery/jquery.min.js"></script>
+  <script src="../../stylesheet/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../../stylesheet/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="../../stylesheet/vendor/php-email-form/validate.js"></script>
+  <script src="../../stylesheet/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../../stylesheet/vendor/venobox/venobox.min.js"></script>
+  <script src="../../stylesheet/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="../../stylesheet/vendor/owl.carousel/owl.carousel.min.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="../stylesheet/js/main.js"></script>
+  <script src="../../stylesheet/js/main.js"></script>
 
   </body>
 

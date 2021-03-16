@@ -39,6 +39,17 @@ class Format{
       return false;
     }
   }
+  //check if car number exist
+  public function carExist($carnumber){
+    $db = new Database();  //db instance
+    $carnumber_query = "SELECT carnumber FROM tbl_register_car WHERE carnumber = '$carnumber'";
+    $result = $db->select($carnumber_query);
+    if ($result) {
+        return true;
+    }else{
+      return false;
+    }
+  }
 
 //check if email exist
   public function UserEmailExist($email){

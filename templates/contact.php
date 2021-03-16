@@ -8,7 +8,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Contact</h2>
           <ol>
-            <li><a href="../index.php">Home</a></li>
+             
             <li>Contact</li>
           </ol>
         </div>
@@ -27,19 +27,19 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Madina-Adenta Highway, Accra</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>info@nsrentals.com</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+233 249 058 525</p>
               </div>
 
             </div>
